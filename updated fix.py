@@ -7,7 +7,7 @@ water = 0
 food = 100
 XP = 0 
 inventory_item = ["water_packet", "energy_packet"]
-
+# Tambah code
 #introduction everytime the player choose to fix the spaceship
 Instruction = """
 You are required to fix the spaceship. 
